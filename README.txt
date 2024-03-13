@@ -37,12 +37,9 @@ library using
 === for micropython
   * machine - Allows control over hardware components on microcontroller boards like the ESP32
   * Pin - Controls GPIO pins for digital input/output.
-  * ADC - Enables analog to digital conversion for reading analog sensors.
-  * I2C - Facilitates communication over the I2C bus for interfacing with various peripherals.
   * PWM - Manages pulse-width modulation for controlling analog components.
   * Timer - Handles timing events and interrupts.
   * UART - Controls serial communication for transmitting and receiving data.
-  * uasyncio - Provides asynchronous programming support for MicroPython.
   * time, utime - Deal with time-related operations and delays.
   * network - Provides network-related functionalities.
   * neopixel - Controls Neopixel (WS2812) RGB LED modules.
